@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Elsharaky
 - 👀 I’m interested in programming and networking.
-- 🌱 I’m currently learning Flask framwork.
 
 <!---
 Elsharaky/Elsharaky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
